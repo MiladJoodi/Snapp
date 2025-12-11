@@ -105,7 +105,7 @@ export default function Navbar() {
                   <Link href="/services/doctor">اسنپ دکتر</Link>
                 </li>
                 <li className="flex items-center cursor-pointer px-4 py-1 hover:text-[#21aa58]">
-                  <Link href="/services/hotel">رزرو هتل</Link>
+                  <Link href="/services/hotels">رزرو هتل</Link>
                 </li>
                 <li className="flex items-center cursor-pointer px-4 py-1 hover:text-[#21aa58]">
                   <Link href="/services/insurance">خدمات بیمه</Link>
